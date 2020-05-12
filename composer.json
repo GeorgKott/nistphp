@@ -1,0 +1,25 @@
+{
+    "name": "georgkott/nistphp",
+    "description": "NIST Statistical Test for random and pseudorandom number generators",
+    "keywords": [
+        "rng", "nist", "test"
+    ],
+    "homepage": "https://github.com/GeorgKott/nistphp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geo Kot",
+            "email": "geo@sarog.site"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+        	"georgkott\\nistphp\\":"src/"
+        }
+    }
+}
+
+
