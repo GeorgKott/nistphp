@@ -2,7 +2,7 @@
 
 namespace georgkott\nistphp;
 
-class Hello
+class Nist
 {
 	public function __construct()
 	{
